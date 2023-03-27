@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@ashesi.edu.gh",
+    "student_id": "AS123456",
+    "year_group": "2024",
+    "major": "Computer Science"
+  }
+]

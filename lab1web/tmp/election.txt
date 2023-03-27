@@ -1,0 +1,36 @@
+[
+  {
+    "id": 5,
+    "name": "Ashesi Student Council Elections",
+    "start_date": "01-04-2023",
+    "end_date": "07-04-2023",
+    "candidates": [
+      {
+        "name": "President",
+        "candidates": [
+          {
+            "name": "Ama Tyson",
+            "student_id": "0101222111"
+          },
+          {
+            "name": "Jack Kruga",
+            "student_id": "0101291882"
+          }
+        ]
+      },
+      {
+        "name": "Vice President",
+        "candidates": [
+          {
+            "name": "Panama Wuni",
+            "student_id": "0101229911"
+          },
+          {
+            "name": "Bob nose",
+            "student_id": "01012211838"
+          }
+        ]
+      }
+    ]
+  }
+]
